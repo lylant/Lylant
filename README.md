@@ -8,5 +8,5 @@
 Student of BICT at Western Sydney University. Interested in Back-End Web Developments.
 
 ### Frameworks
-* .NET Framework
-* ASP.NET
+* .NET Core Framework
+* ASP.NET Core
