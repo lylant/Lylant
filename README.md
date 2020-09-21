@@ -7,6 +7,10 @@
 ### University Student
 Student of BICT at Western Sydney University. Interested in Back-End Web Developments.
 
-### Frameworks
-* .NET Core Framework
+### Tech-Stacks
+* Java
+* C#
 * ASP.NET Core
+* DBMS
+  * MSSQL
+  * MariaDB
