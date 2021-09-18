@@ -4,13 +4,11 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-darkorange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/11685280/lylant)](https://stackoverflow.com/users/11685280/lylant)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pphantasm@gmail.com)](mailto:pphantasm@gmail.com)
 
-### University Student
-Student of BICT at Western Sydney University. Interested in Back-End Web Developments.
-
 ### Tech-Stacks
 * Java
 * C#
 * ASP.NET Core
+* Laravel
 * DBMS
   * MSSQL
   * MariaDB
