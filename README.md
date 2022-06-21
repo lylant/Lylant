@@ -4,13 +4,13 @@
 
 ### Tech-Stacks
 
-## Professional Level
+#### Professional Level
 * Node.js
 * TypeScript
 * MongoDB
 * AWS
 
-## Academic Level
+#### Academic Level
 * Java
 * C#
 * ASP.NET Core
