@@ -4,15 +4,19 @@
 
 ### Tech-Stacks
 
-#### Professional Level
+#### 2+ years
 * Node.js
-* TypeScript
-* MongoDB
+* JavaScript / TypeScript
+* MongoDB / DocumentDB
 * AWS
 
-#### Academic Level
+#### 12+ months
+* .NET Core
+* React
+* Azure
+* CMS services
+
+#### 3+ months
 * Java
-* C#
-* ASP.NET Core
 * Laravel
 * SQL
